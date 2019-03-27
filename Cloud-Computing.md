@@ -33,3 +33,16 @@ App/System/Case study: Eucalyptus
 Content:  Multi-tenancy Issues, Isolation Virtualization System Security Issues, Virtualization System Vulnerabilities, Risk assessment for cloud migration, Contract design for Outsourcing and Cloud agreements, Managing vendors in the Cloud, Trust and Reputation, Data security and Storage: Data privacy and security Issues, Jurisdictional issues raised by Data location, Case Study on  Open Source & Commercial Clouds: Cloudstack, OpenNebula, Microsoft Azure.
 Self Study: Openstack Security
 Further Reading: Amazon EC2
+
+
+## Assignments:
+- Describe in detail what is Cloud Computing and its types.
+- Use software virtualization in Your Host Operating System to install guest operating systems.
+- State which type of Cloud AWS is. Create an account on AWS and understand dashboard of AWS.
+- Installation of The AWS CLI using credentials and roles.
+- Create your first instance on AWS using AWS dashboard and AWS command-line.
+- Launch the first elastic compute cloud instance via two methods: using program and using AWS CLI.
+- Create put and get request using API of Amazon S3. Also store the data into S3 & fetch and delete using command line and programming.
+- Detect type of instance using amazon programming API. Also print on screen roles of IAM server in life cycle of IAM.
+- Create your own VPC. Also select your own IP address range, creation of subnets, and configuration of route tables and network gateways. In the end, launch EC2 instance in it.
+- Create EC2 instances and manage load in such a way that new instance get created as soon as application load increases.
