@@ -1,7 +1,7 @@
 ### | Unit I	| Fundamentals of Cloud Computing	|6|
-||||
-
+|:---|:---:|---:|
 Content: Cloud: Cloud types, role of virtualization in enabling the cloud, Cloud Architecture and model, Business Agility, Application availability, performance, security and disaster recovery; next generation Cloud Applications, Distributed Computing and Enabling Technologies, Cloud Fundamentals: Cloud Definition, Evolution, Architecture, Applications, deployment models, and service models.
+|:---|
 Self Study: Types of Cloud
 Further Reading: Types of Cloud Service Models.
 App/System/Case study: Amazon Web Services
