@@ -1,6 +1,6 @@
 # &nbsp;  &nbsp; &nbsp;  &nbsp;   &nbsp;  &nbsp; &nbsp;  &nbsp; &nbsp;  &nbsp;   &nbsp;  &nbsp; Advanced Technology Lab –I 	
  
-### Teaching/Practical: 2hrs/Week  &nbsp;  &nbsp;   &nbsp;  &nbsp; &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp; &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp; &nbsp;  &nbsp;   &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp; &nbsp;  &nbsp;   &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp; &nbsp;  &nbsp;   &nbsp;  &nbsp;       Total: 24 hrs/Semester 
+### Teaching/Practical: 2hrs/Week  &nbsp;  &nbsp;   &nbsp;  &nbsp; &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp; &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp; &nbsp;  &nbsp;   &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp; &nbsp;  &nbsp;   &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp; &nbsp;  &nbsp;  Total: 24 hrs/Semester 
 
 | Unit No. |	Contents |	Hours |
 |:---:|:---|:---:|
