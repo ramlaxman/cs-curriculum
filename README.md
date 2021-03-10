@@ -1,4 +1,4 @@
-# CS Curriculcum
+# CS Curriculum
 
 This curriculum is designed as per my understanding of Computer Science and Engineering.
 
