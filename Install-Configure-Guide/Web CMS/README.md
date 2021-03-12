@@ -5,15 +5,17 @@ _Web Content Management System(CMS) Programming Language_: PHP, Python
 _Platform_:  Windows 10 Pro, Windows 7 Profesional.
 
 -  Web CMS How-To
--  Types of Web Servers
--  XAMPP
-    -  WordPress
-    -  Joomla
-    -  Mahara
-    -  Drupal
-    -  ForkCMS
-    -  FlexType
-    -  MediaWiki
-    -  Zenario
--  Python
-    -  Plone
+-  Building from Scratch: Apache HTTP, PHP and MySQL.
+-  Using Readymade Solutions:
+    -  XAMPP
+        -  WordPress
+        -  Joomla
+        -  Drupal
+        -  ForkCMS
+        -  FlexType
+        -  MediaWiki
+        -  Zenario
+        -  MyBB
+        -  Mahara
+    -  Python
+        -  Plone
