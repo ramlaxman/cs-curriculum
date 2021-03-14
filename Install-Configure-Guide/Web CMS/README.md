@@ -5,7 +5,9 @@ _Web Content Management System(CMS) Programming Language_: PHP, Python
 _Platform_:  Windows 10 Pro, Windows 7 Profesional.
 
 -  [Web CMS How-To](https://medium.com/@mayurp7/web-cms-series-step-by-step-tutorial-35c8de2d1ade)
+
 -  Using Readymade Solutions:
+
     -  XAMPP
         -  WordPress
         -  Joomla
